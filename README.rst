@@ -4,6 +4,8 @@ django-friendship
 Usage
 =====
 
+
+
 Add ``friendship`` to ``INSTALLED_APPS`` and run ``syncdb``.
 
 To use ``django-friendship`` in your views::
@@ -67,3 +69,4 @@ Compatibility
 =============
 
 This package requires Django 1.4 since v0.9.0. The last release supporting Django 1.3 is v0.8.3.
+
